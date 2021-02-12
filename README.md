@@ -79,3 +79,5 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 3. What is an event listener? An event listener is a "method" that waits for an event to occur.
 4. Why would we convert a NodeList into an Array? By selecting the nodelist with document.querySelectorAll then creating an object and setting that objects value to 'Array'
 5. What is a component? Components are similar to functions in Javascript and they are independent and reusable.
+
+//test for codegrade
